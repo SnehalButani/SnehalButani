@@ -1,17 +1,3 @@
-<h3 align="center">Full Stack Developer | MERN Expert | Passionate Problem Solver</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Code-Node.js-green?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Code-Express.js-lightgrey?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?style=for-the-badge&logo=mongodb" />
-</p>
-
----
-
-### 👋 About Me
-
 Hi! I'm **Snehal Butani**, a dedicated Full Stack Developer specializing in the **MERN stack**. I love solving real-world problems through code and always seek to improve my skills and contribute to meaningful, innovative projects.
 
 - 🔭 Currently working on dynamic full stack web apps  
