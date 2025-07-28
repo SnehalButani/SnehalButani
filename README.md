@@ -3,10 +3,10 @@ Hi! 👋 I'm **Snehal Butani**, a dedicated Full Stack Developer specializing in
 - 🔭 Currently working on dynamic full stack web apps  
 - 🌱 Exploring advanced backend architecture and cloud technologies  
 - 💬 Ask me about JavaScript, React, Node.js, MongoDB, and REST APIs  
-- 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=social&logo=linkedin&logoColor=white)](https://linkedin.com/in/snehal-butani)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail&logoColor=red)](mailto:developer.snehalbutani@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=social&logo=github)](https://github.com/snehalbutani)
+
+### 🔗 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/snehal-butani) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer.snehalbutani@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snehalbutani)
 
 ---
 #### ⚙️ Backend Technologies  
