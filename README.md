@@ -1,4 +1,4 @@
-Hi! I'm **Snehal Butani**, a dedicated Full Stack Developer specializing in the **MERN stack**. I love solving real-world problems through code and always seek to improve my skills and contribute to meaningful, innovative projects.
+Hi! 👋 I'm **Snehal Butani**, a dedicated Full Stack Developer specializing in the **MERN stack**. I love solving real-world problems through code and always seek to improve my skills and contribute to meaningful, innovative projects.
 
 - 🔭 Currently working on dynamic full stack web apps  
 - 🌱 Exploring advanced backend architecture and cloud technologies  
